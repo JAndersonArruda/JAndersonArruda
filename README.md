@@ -1,12 +1,12 @@
-## Fala Geração Tec, tudo bem? Sou Anderson Arruda e aqui estarei colocando alguns projetos desenvolvidos por mim! 
+## Fala Geração Tec, tudo bem? Sou Anderson Arruda e aqui estão alguns de meus projetos! 
 
 <div align="center">
   <a href="https://github.com/JAndersonArruda">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JAndersonArruda&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAndersonArruda&layout=compact&langs_count=7&theme=nightowl"/> 
+  <img height="180em" width="456.92em" src="https://github-readme-stats.vercel.app/api?username=JAndersonArruda&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> 
+  <img height="180em" width="456.92em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAndersonArruda&layout=compact&langs_count=7&theme=nightowl"/> 
 </div>
 
-<div style="display: inline_block">
+<div style="display: inline_block"><br>
   <img align="center" alt="Ander_Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ander_JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ander_Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"> 
