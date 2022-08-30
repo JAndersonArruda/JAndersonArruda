@@ -1,4 +1,4 @@
-## Fala Geração Tec, tudo bem? Sou Anderson Arruda e aqui estão alguns de meus projetos! 
+## Fala Geração Tec, tudo bem? <i>"To Program and to Discover!!"</i>
 
 <div align="center">
   <a href="https://github.com/JAndersonArruda">
@@ -26,5 +26,8 @@
   </a> 
   <a href="https://www.linkedin.com/in/anderson-arruda-276677244" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://youtube.com/channel/UCtnXnDOE-HnuF7d3uo1nh2w" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
   </a>
 </div>
