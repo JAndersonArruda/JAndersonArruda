@@ -2,8 +2,8 @@
 <br>
 
 ## <div><i> - Qualification</i></div>
+<p><i>Cursando atualmente: Curso Superior Tecnológico (CST) em Analise e Desenvlvimeto de Sistema</i></p>
 <p><i>Desevolvedor Front-end | Técnico em Informática</i></p>
-<p><i>Cursando atualmente: Courso Superior Tecnológico (CST) Analise e Desenvlvimeto de Sistema</i></p>
 <br>
 
 ## <div><i> - GitHub Data</i></div>
