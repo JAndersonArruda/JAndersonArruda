@@ -26,10 +26,10 @@
   
 ## <div><i> - Contacts</i></div>
 <div align='center'>
-  <a href="https://www.instagram.com/jose.anderson_arruda/" target=_blank>
+  <a href="https://www.instagram.com/jose.anderson_arruda/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href = "ferrazarrudaanderson@gmail.com" target_blank>
+  <a href = "ferrazarrudaanderson@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a> 
   <a href="https://www.linkedin.com/in/anderson-arruda-276677244" target=”_blank”>
