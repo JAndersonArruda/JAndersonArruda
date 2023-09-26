@@ -4,9 +4,8 @@
 ## <div><i> - Qualification</i></div>
 <p><i>Cursando atualmente: Curso Superior Tecnológico (CST) em Analise e Desenvlvimeto de Sistema</i></p>
 <p><i>Desevolvedor Front-end | Técnico em Informática</i></p>
-<br>
 
-## <div><i> - GitHub Data</i></div>
+##
 <div align="center">
   <a href="https://github.com/JAndersonArruda">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=JAndersonArruda&show_icons=true&theme=nightowl&include_all_commits=true&count_private_and_public=true"> 
@@ -22,9 +21,8 @@
   <img align="center" alt="Ander_HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
   <img align="center" alt="Ander_CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-<br>
   
-## <div><i> - Contacts</i></div>
+## 
 <div align='center'>
   <a href="https://www.instagram.com/jose.anderson_arruda/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -40,17 +38,3 @@
   </a>
 </div>
 <br>
-
-## <div><i> - Commits</i></div>
-<div align="center">
-  
-  ![Snake animation](https://github.com/JAndersonArruda/JAndersonArruda/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-<br>
-  
-<div align="center">
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
-  
-  
