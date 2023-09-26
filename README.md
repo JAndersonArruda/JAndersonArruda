@@ -1,4 +1,8 @@
-# <div align="center" color="white"><i>Developer Front-end </i></div>
+<div align="center">
+  <h1 color="white">
+    <i>Developer Front-end </i>
+  </h1>
+</div>
 <br>
 
 <div align="center">
