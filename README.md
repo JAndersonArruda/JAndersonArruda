@@ -1,4 +1,5 @@
-# <div align="center"><i> Developer Front-end </i></div>
+<div align="center"><i><h1> Developer Front-end </h1></i></div>
+<br>
 
 <div align="center">
   <a href="https://github.com/JAndersonArruda">
