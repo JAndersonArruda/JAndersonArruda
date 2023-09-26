@@ -17,7 +17,7 @@
   
 ## 
 <div align='center'>
-  <a href="https://www.instagram.com/jose.anderson_arruda/" target="_blank">
+  <a href="https://www.instagram.com/jose_arruda__/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href = "ferrazarrudaanderson@gmail.com" target="_blank">
