@@ -1,11 +1,4 @@
-# <div align='center'><i align='center'>To Program and to Discover!!</i></div>
-<br>
 
-## <div><i> - Qualification</i></div>
-<p><i>Cursando atualmente: Curso Superior Tecnológico (CST) em Analise e Desenvlvimeto de Sistema</i></p>
-<p><i>Desevolvedor Front-end | Técnico em Informática</i></p>
-
-##
 <div align="center">
   <a href="https://github.com/JAndersonArruda">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=JAndersonArruda&show_icons=true&theme=nightowl&include_all_commits=true&count_private_and_public=true"> 
