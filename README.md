@@ -1,4 +1,4 @@
-<div align="center"><i><h1> Developer Front-end </h1></i></div>
+# <div align="center" color="white"><i>Developer Front-end </i></div>
 <br>
 
 <div align="center">
