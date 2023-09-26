@@ -20,13 +20,13 @@
   <a href="https://www.instagram.com/jose_arruda__/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href = "ferrazarrudaanderson@gmail.com" target="_blank">
+  <a href="ferrazarrudaanderson@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a> 
-  <a href="https://www.linkedin.com/in/anderson-arruda-276677244" target=”_blank”>
+  <a href="https://www.linkedin.com/in/anderson-arruda-276677244" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://youtube.com/channel/UCtnXnDOE-HnuF7d3uo1nh2w" target=”_blank”>
+  <a href="https://youtube.com/channel/UCtnXnDOE-HnuF7d3uo1nh2w" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </div>
