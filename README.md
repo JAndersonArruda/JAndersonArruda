@@ -20,22 +20,28 @@ Eu sou José, tenho 19 anos e sou Desenvolvedor Front-end. Atualmente sou gradua
 
 #
 #### Contacts
-|       |       |       |       |       |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
-| [![Instagran](https://img.shields.io/badge/-Instagram-db0bb9?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jose_arruda__/) | [![E-mail](https://img.shields.io/badge/-Gmail-c72926?style=for-the-badge&logo=gmail&logoColor=white)](ferrazarrudaanderson@gmail.com) | [![LinkdeIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-arruda-276677244) | [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCtnXnDOE-HnuF7d3uo1nh2w) | [![Discord](https://img.shields.io/badge/Discord-5366ee?style=for-the-badge&logo=discord&logoColor=white)]() |
-|       |       |       |       |       |
+|       |       |       |       |       |       |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| [![Instagran](https://img.shields.io/badge/-Instagram-db0bb9?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jose_arruda__/) | [![E-mail](https://img.shields.io/badge/-Gmail-c72926?style=for-the-badge&logo=gmail&logoColor=white)](ferrazarrudaanderson@gmail.com) | [![LinkdeIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-arruda-276677244) | [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCtnXnDOE-HnuF7d3uo1nh2w) | [![Discord](https://img.shields.io/badge/Discord-5366ee?style=for-the-badge&logo=discord&logoColor=white)](#) | [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](#) |
+|       |       |       |       |       |       |
 
 #
 #### Skills
 |       |       |       |       |       |       |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117) | ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117) | ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117) | ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117) | ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117) | ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117) | 
+| ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor14354c&labelColor=0D1117) | ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117) | ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117) | ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117) | ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117) | ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117) | 
 |       |       |       |       |       |       |
 
 |       |       |       |       |       |       |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117) | ![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117&logoColor=08af86) | ![Flask](https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&logoColor=1572B6&labelColor=0D1117) | ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=43853d&logoColor=E94D5F&labelColor=0D1117) | ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E94D5F&labelColor=0D1117) | ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=30A3DC&labelColor=0D1117) |
+| ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117) | ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=43853d&logoColor=E94D5F&labelColor=0D1117) | ![Flask](https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&logoColor=1572B6&labelColor=0D1117)| ![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117&logoColor=08af86) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=2f6792) | ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=e44c30&labelColor=0D1117) |
 |       |       |       |       |       |       |
+
+|       |
+|:-----:|
+| ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117) |
+|       |
+
 
 #
 #### GitHub Status
