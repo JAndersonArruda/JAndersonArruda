@@ -1,12 +1,8 @@
 ##
-<div align="center">
-  <h3 color="white">
-    <i>Hey Guys, I'm José, I'm Developer Front-end </i>
-  </h1>
-</div>
+### Hey, guys. I'm José, I'm 19 years old and I'm a Front-end Developer
+##### *I'm currently graduating from the Higher Technological Course in Systems Analysis and Development, at the Instituto Federal de Educação, Ciências e Tecnologia da Paraiba - IFPB, Brazil*
 
-<br>
-
+##
 <div align="center">
   <a href="https://github.com/JAndersonArruda">
     <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=JAndersonArruda&show_icons=true&theme=highcontrast&hide_border=true" />
