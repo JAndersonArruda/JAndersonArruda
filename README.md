@@ -8,6 +8,10 @@ Eu sou José, tenho 19 anos e sou Desenvolvedor Front-end. Atualmente sou gradua
 ###
 I'm José, I'm 19 years old and I'm a Front-end Developer. I am currently graduating from the Higher Technological Course in Systems Analysis and Development, at the Federal Institute of Education, Sciences and Technology of Paraíba - IFPB, Brazil. I have professional experience in developing user interfaces, mainly web and mobile devices, structuring and manipulating data, and manipulating and managing API and AI, through HTTP and STP requests. I am always looking for new challenges and opportunities to improve my skills and knowledge in the area of ​​software development and structuring. In addition to researching knowledge about quantum computing and cloud storage.
 
+#
+#### Qualifications 
+Técnico em Informática <br>
+Tecnologo Analista e Desenvolvedor de Sistemas
 
 #
 #### Contacts
@@ -17,7 +21,7 @@ I'm José, I'm 19 years old and I'm a Front-end Developer. I am currently gradua
 |       |       |       |       |
 
 #
-#### Qualifications 
+#### Skills
 |       |       |       |       |       |       |       |       |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117) | ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117) | ![C Liguage](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&labelColor=0D1117) | ![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117) | ![Flask](https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&logoColor=1572B6&labelColor=0D1117) | ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117) | ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=orange&labelColor=0D1117) | ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117) |
