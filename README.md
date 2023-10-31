@@ -5,11 +5,9 @@
 </div>
 <br>
 
-<div align="center">
-  <a href="https://github.com/JAndersonArruda">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=JAndersonArruda&show_icons=true&theme=nightowl&include_all_commits=true&count_private_and_public=true"> 
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAndersonArruda&layout=compact&langs_count=6&theme=nightowl"> 
-</div> 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAndersonArruda&show_icons=true&theme=highcontrast) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAndersonArruda&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=6&theme=highcontrast)
+
 
 <div align='center' style="display: inline_block"><br>
   <img align="center" alt="Ander_Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
