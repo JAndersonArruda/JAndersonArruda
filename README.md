@@ -20,10 +20,10 @@ Eu sou José, tenho 19 anos e sou Desenvolvedor Front-end. Atualmente sou gradua
 
 #
 #### Contacts
-|       |       |       |       |
-|:-----:|:-----:|:-----:|:-----:|
-| [![Instagran](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jose_arruda__/) | [![E-mail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](ferrazarrudaanderson@gmail.com) | [![GitHub](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-arruda-276677244) | [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCtnXnDOE-HnuF7d3uo1nh2w) |
-|       |       |       |       |
+|       |       |       |       |       |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| [![Instagran](https://img.shields.io/badge/-Instagram-db0bb9?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jose_arruda__/) | [![E-mail](https://img.shields.io/badge/-Gmail-c72926?style=for-the-badge&logo=gmail&logoColor=white)](ferrazarrudaanderson@gmail.com) | [![LinkdeIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-arruda-276677244) | [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCtnXnDOE-HnuF7d3uo1nh2w) | [![Discord](https://img.shields.io/badge/Discord-5366ee?style=for-the-badge&logo=discord&logoColor=white)]() |
+|       |       |       |       |       |
 
 #
 #### Skills
