@@ -29,13 +29,13 @@ Eu sou José, tenho 19 anos e sou Desenvolvedor Front-end. Atualmente sou gradua
 #### Skills
 |       |       |       |       |       |       |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117) | ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117) | ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117) | ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117) | ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117) | ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117) |
+| ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117) | ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117) | ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117) | ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117) | ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117) | ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117) | 
 |       |       |       |       |       |       |
 
-|       |       |       |       |
-|:-----:|:-----:|:-----:|:-----:|
-| ![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117) | ![Flask](https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&logoColor=1572B6&labelColor=0D1117) | ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E94D5F&labelColor=0D1117) | ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=30A3DC&labelColor=0D1117) |
-|       |       |       |       |
+|       |       |       |       |       |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117) | ![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117&logoColor=08af86) | ![Flask](https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&logoColor=1572B6&labelColor=0D1117) | ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E94D5F&labelColor=0D1117) | ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=30A3DC&labelColor=0D1117) |
+|       |       |       |       |       |
 
 #
 #### GitHub Status
