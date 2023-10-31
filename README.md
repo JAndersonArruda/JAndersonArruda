@@ -6,30 +6,24 @@
 
 <div align="center">
   <a href="https://github.com/JAndersonArruda">
-    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=JAndersonArruda&show_icons=true&theme=highcontrast" />
-    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAndersonArruda&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=6&theme=highcontrast" />
+    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=JAndersonArruda&show_icons=true&theme=highcontrast&hide_border=true" />
+    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAndersonArruda&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=6&theme=highcontrast&hide_border=true" />
   </a>
 </div>
+
+<br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JAndersonArruda&bg_color=000000&color=e7f216&line=f28016&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
 <div align="center">
   <a href="https://github.com/JAndersonArruda">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=JAndersonArruda&layout=compact&theme=highcontrast" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jaa29k21&layout=compact&hide_border=true&theme=highcontrast" />
   </a>
 </div>
-  
-##
-<div align='center' style="display: inline_block">
-  <img align="center" alt="Ander_Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ander_JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ander_Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img align="center" alt="Ander_CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-  <img align="center" alt="Ander_React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
-  <img align="center" alt="Ander_HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-  <img align="center" alt="Ander_CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
 
-## 
+<br>
+
 <div align='center'>
   <a href="https://www.instagram.com/jose_arruda__/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -44,3 +38,14 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </div>
+
+___
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![C Liguage](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&labelColor=0D1117)&nbsp;
+![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=orange&labelColor=0D1117)&nbsp; 
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+___
