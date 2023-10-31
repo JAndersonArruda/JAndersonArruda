@@ -27,9 +27,8 @@ I'm José, I'm 19 years old and I'm a Front-end Developer. I am currently gradua
 #### GitHub Status
 <div align="justfy">
   <a href="https://github.com/JAndersonArruda">
-    <img height=163 align="center" src="https://github-readme-stats.vercel.app/api?username=JAndersonArruda&show_icons=true&theme=highcontrast&hide_border=true" />
-    <img height=163 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAndersonArruda&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&theme=highcontrast&hide_border=true" />
-    <img height=163 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=highcontrast&hide_border=true" />
+    <img height=185 align="center" src="https://github-readme-stats.vercel.app/api?username=JAndersonArruda&show_icons=true&theme=highcontrast&hide_border=true" />
+    <img height=185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAndersonArruda&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&theme=highcontrast&hide_border=true" />
   </a>
 </div>
 
