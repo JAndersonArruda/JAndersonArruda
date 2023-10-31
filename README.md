@@ -6,12 +6,17 @@
 Eu sou José, tenho 19 anos e sou Desenvolvedor Front-end. Atualmente sou graduando no Curso Superior Tecnológico em Análise e Desenvolvimento de Sistemas, no Instituto Federal de Educação, Ciências e Tecnologia da Paraíba - IFPB, Brasil. Tenho experiência profissional em desenvolvimento de interfaces com ususário, principalmente web e dispositivos móveis, estruturação e manipulação de dados, e manipulação e gerenciamento de API e IA, através de solicitações HTTP e STP. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e conhecimentos na área de desenvolvimento e estruturação de software. Além de pesquisar conhecimentos sobre computação quântica e armazenamento em nuvem.
 
 ###
-I'm José, I'm 19 years old and I'm a Front-end Developer. I am currently graduating from the Higher Technological Course in Systems Analysis and Development, at the Federal Institute of Education, Sciences and Technology of Paraíba - IFPB, Brazil. I have professional experience in developing user interfaces, mainly web and mobile devices, structuring and manipulating data, and manipulating and managing API and AI, through HTTP and STP requests. I am always looking for new challenges and opportunities to improve my skills and knowledge in the area of ​​software development and structuring. In addition to researching knowledge about quantum computing and cloud storage.
+*I'm José, I'm 19 years old and I'm a Front-end Developer. I am currently graduating from the Higher Technological Course in Systems Analysis and Development, at the Federal Institute of Education, Sciences and Technology of Paraíba - IFPB, Brazil. I have professional experience in developing user interfaces, mainly web and mobile devices, structuring and manipulating data, and manipulating and managing API and AI, through HTTP and STP requests. I am always looking for new challenges and opportunities to improve my skills and knowledge in the area of ​​software development and structuring. In addition to researching knowledge about quantum computing and cloud storage.*
 
 #
-#### Qualifications 
-Técnico em Informática <br>
-Tecnologo Analista e Desenvolvedor de Sistemas
+#### Qualifications
+- Técnico em Informática <br>
+- Tecnologo Analista e Desenvolvedor de Sistemas
+
+
+###
+- *Computer Technician* <br>
+- *Technologist Analyst and Systems Developer*
 
 #
 #### Contacts
@@ -22,10 +27,10 @@ Tecnologo Analista e Desenvolvedor de Sistemas
 
 #
 #### Skills
-|       |       |       |       |       |       |       |       |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117) | ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117) | ![C Liguage](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&labelColor=0D1117) | ![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117) | ![Flask](https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&logoColor=1572B6&labelColor=0D1117) | ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117) | ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=orange&labelColor=0D1117) | ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117) |
-|       |       |       |       |       |       |       |       |
+|       |       |       |       |       |       |       |       |       |       |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117) | ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117) | ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117) | ![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117) | ![Flask](https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&logoColor=1572B6&labelColor=0D1117) | ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117) | ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117) | ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117) | ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E94D5F&labelColor=0D1117) | ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=30A3DC&labelColor=0D1117)
+|       |       |       |       |       |       |       |       |       |       |
 
 #
 #### GitHub Status
