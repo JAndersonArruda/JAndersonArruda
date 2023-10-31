@@ -12,6 +12,13 @@
 </div>
 
 ##
+<div align="center">
+  <a href="https://github.com/JAndersonArruda">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=JAndersonArruda&layout=compact&theme=highcontrast" />
+  </a>
+</div>
+  
+##
 <div align='center' style="display: inline_block">
   <img align="center" alt="Ander_Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ander_JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,7 +28,7 @@
   <img align="center" alt="Ander_HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
   <img align="center" alt="Ander_CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-  
+
 ## 
 <div align='center'>
   <a href="https://www.instagram.com/jose_arruda__/" target="_blank">
