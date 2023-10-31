@@ -1,8 +1,11 @@
+##
 <div align="center">
-  <h1 color="white">
-    <i>Developer Front-end </i>
+  <h3 color="white">
+    <i>Hey Guys, I'm José, I'm Developer Front-end </i>
   </h1>
 </div>
+
+<br>
 
 <div align="center">
   <a href="https://github.com/JAndersonArruda">
@@ -28,3 +31,4 @@
   <a href="https://www.linkedin.com/in/anderson-arruda-276677244" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://youtube.com/channel/UCtnXnDOE-HnuF7d3uo1nh2w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div>
+
