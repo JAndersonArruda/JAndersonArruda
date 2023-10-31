@@ -42,7 +42,6 @@ Eu sou José, tenho 19 anos e sou Desenvolvedor Front-end. Atualmente sou gradua
 | ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117) |
 |       |
 
-
 #
 #### GitHub Status
 <div align="justfy">
@@ -51,7 +50,6 @@ Eu sou José, tenho 19 anos e sou Desenvolvedor Front-end. Atualmente sou gradua
     <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAndersonArruda&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&theme=highcontrast&hide_border=true" />
   </a>
 </div>
-
 <br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JAndersonArruda&bg_color=000000&color=e7f216&line=f28016&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -62,6 +60,3 @@ Eu sou José, tenho 19 anos e sou Desenvolvedor Front-end. Atualmente sou gradua
   ![Snake animation](https://github.com/JAndersonArruda/JAndersonArrudaa/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-
- 
-
