@@ -10,13 +10,13 @@ Eu sou José, tenho 19 anos e sou Desenvolvedor Front-end. Atualmente sou gradua
 
 #
 #### Qualifications
-- Técnico em Informática <br>
-- Tecnologo Analista e Desenvolvedor de Sistemas
+- Tecnologo Analista e Desenvolvedor de Sistemas <br>
+- Técnico em Informática
 
 
 ###
-- *Computer Technician* <br>
-- *Technologist Analyst and Systems Developer*
+- *Technologist Analyst and Systems Developer* <br>
+- *Computer Technician*
 
 #
 #### Contacts
