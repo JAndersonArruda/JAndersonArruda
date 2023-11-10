@@ -55,10 +55,9 @@ Eu sou José, tenho 19 anos e sou Desenvolvedor Front-end. Atualmente sou gradua
 #### Commits Contribution Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JAndersonArruda&bg_color=000000&color=e7f216&line=f28016&point=00ffff&area=true&hide_border=true&radius=5)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!--
 <div align="center">
   
   ![Snake animation](https://github.com/JAndersonArruda/JAndersonArruda/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
   
 </div>
--->
+
