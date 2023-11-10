@@ -58,6 +58,6 @@ Eu sou José, tenho 19 anos e sou Desenvolvedor Front-end. Atualmente sou gradua
 
 <div align="center">
   
-  ![Snake animation](https://github.com/JAndersonArruda/JAndersonArruda/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/JAndersonArruda/JAndersonArruda/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
   
 </div>
