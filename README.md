@@ -27,20 +27,25 @@ Eu sou José, tenho 19 anos e sou Desenvolvedor Front-end. Atualmente sou gradua
 
 #
 #### Skills
-|       |       |       |       |       |       |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor14354c&labelColor=0D1117) | ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117) | ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117) | ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117) | ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117) | ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117) | 
-|       |       |       |       |       |       |
-
-|       |       |       |       |       |       |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117) | ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=43853d&logoColor=E94D5F&labelColor=0D1117) | ![Flask](https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&logoColor=1572B6&labelColor=0D1117)| ![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117&logoColor=08af86) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=2f6792) | ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=e44c30&labelColor=0D1117) |
+|       |       |       |       |       |       |       |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor14354c&labelColor=0D1117) | ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=red&labelColor=0D1117) | ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117) | ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117) | ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117) | ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117) | ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117) |
 |       |       |       |       |       |       |
 
-|       |
-|:-----:|
-| ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117) |
-|       |
+|       |       |       |       |       |       |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-0D1117?style=for-the-badge&logo=springboot&labelColor=0D1117) | ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117) | ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=43853d&logoColor=E94D5F&labelColor=0D1117) | ![Express](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=express&labelColor=0D1117) | ![Flask](https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&logoColor=1572B6&labelColor=0D1117)| ![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117&logoColor=08af86) | 
+|       |       |       |       |       |       |
+
+|       |       |       |       |       |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=2f6792) | ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117) | ![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=0D1117) | ![Neo4j](https://img.shields.io/badge/-Neo4j-0D1117?style=for-the-badge&logo=neo4j&labelColor=0D1117) | ![Redis](https://img.shields.io/badge/-Redis-0D1117?style=for-the-badge&logo=redis&labelColor=0D1117) |
+|       |       |       |       |       |
+
+|       |       |       |
+|:-----:|:-----:|:-----:|
+| ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=e44c30&labelColor=0D1117) | ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117) | ![Jira](https://img.shields.io/badge/-Jira-0D1117?style=for-the-badge&logo=jira&logoColor=0052CC&labelColor=0D1117) |
+|       |       |       |
 
 #
 #### GitHub Status
